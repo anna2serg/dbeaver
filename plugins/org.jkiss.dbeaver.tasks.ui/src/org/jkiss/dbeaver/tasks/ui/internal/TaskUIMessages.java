@@ -23,6 +23,11 @@ public class TaskUIMessages extends NLS {
 	static final String BUNDLE_NAME = "org.jkiss.dbeaver.tasks.ui.internal.TaskUIMessages"; //$NON-NLS-1$
 
 	public static String task_config_wizard_group_task_label;
+	public static String task_config_wizard_group_task_variables;
+	public static String task_config_wizard_group_save_task;
+	public static String task_config_wizard_group_open_tasks_view;
+	public static String task_config_wizard_group_open_tasks_view_error_title;
+	public static String task_config_wizard_group_open_tasks_view_error_description;
 
 	static {
 		// initialize resource bundle
